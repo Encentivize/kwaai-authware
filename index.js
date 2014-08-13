@@ -1,5 +1,6 @@
 ﻿var authTools={
-    singleDocumentSecurity:require('./lib/singleDocumentSecurityService.js')
+    singleDocumentSecurity:require('./lib/singleDocumentSecurityService.js'),
+    accessToken:require("./lib/tokenAccessService.js")
 }
 
 
