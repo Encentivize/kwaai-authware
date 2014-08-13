@@ -1,0 +1,27 @@
+{
+  "name": "kwaai-authware",
+  "version": "0.0.1",
+  "description": "Express middleware specifically for multi-tenant and authorisation scenarios using Mongo and Express",
+  "main": "./index.js",
+  "author": {
+    "name": "Martin Naude",
+    "email": "martin@entelect.co.za"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martinza78/kwaai-authware"
+  },
+  "dependencies": {
+      "kwaai-crudware":"~0.0.5",
+      "kwaai-crud":"~0.0.5",
+      "kwaai-schema":"~0.0.2",
+      "password-hash-and-salt": "^0.1.2"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/martinza78/kwaai-authware",
+  "_id": "kwaai-authware@0.0.1",
+  "_from": "kwaai-authware@"
+}
