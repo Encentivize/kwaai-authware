@@ -1,6 +1,6 @@
 {
   "name": "kwaai-authware",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Express middleware specifically for multi-tenant and authorisation scenarios using Mongo and Express",
   "main": "./index.js",
   "author": {
@@ -24,6 +24,6 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/martinza78/kwaai-authware",
-  "_id": "kwaai-authware@0.0.9",
+  "_id": "kwaai-authware@0.0.10",
   "_from": "kwaai-authware@"
 }
