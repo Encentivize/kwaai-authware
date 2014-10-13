@@ -1,4 +1,4 @@
-var kwaaiAuthware=require('./lib/authware.js');
+var kwaaiAuthware=require('./index.js');
 
 
 
